@@ -46,7 +46,12 @@ Here's a glimpse of the user interface of the Memories application:
 6. Start the backend: `cd server && nodemon app.js`
 7. Access the application at: `http://localhost:3000`
 
+### Team Members ✨
+> <a href="https://github.com/adi2109">Aditya Singh</a><br>
+> <a href="https://github.com/mohdtaha-cpp">Mohd Taha
 
+### Demo
+Link: [Click Here](https://drive.google.com/drive/folders/1gz9FQ0O9DvYgVLTBr4JaNG3Gnz3ZvOJr?usp=drive_link)
 ---
 
 Capture and cherish your memories with Memories App! 📸✨
